@@ -1,6 +1,6 @@
 checkpoints/
 __pycache__/
-.ipynb_checkpoints/
+*ipynb_checkpoints/
 .DS_Store
-.historic/data/
-.option_data/
+historic_data/
+option_data/
